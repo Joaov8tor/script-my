@@ -1,4 +1,4 @@
-local Rayfield = loadstring(game:HttpGet('https://[Log in to view URL]'))()
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/Joaov8tor/script-my/main/Script%20my'))()
 
 local Window = Rayfield:CreateWindow({
    Name = "Blox Fruits Script",
@@ -47,7 +47,7 @@ Rayfield:Notify({
 local Button = MainTab:CreateButton({
    Name = "Find Fruits",
    Callback = function()
-   loadstring(game:HttpGet("https://[Log in to view URL]"))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Joaov8tor/script-my/main/Script%20my"))()
    end,
 })
 
